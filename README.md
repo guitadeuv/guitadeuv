@@ -3,7 +3,7 @@
 - 🔭 Hoje estudo desenvolvimento web e estou em buscar da minha primeira oportunidade
 - 🌱 Estou aprendendo React.js e JavaScript 
 
-<div align="center">
+<div >
   <a href="https://github.com/guitadeuv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guitadeuv&layout=compact&langs_count=7&theme=dark"/>
 </div>
