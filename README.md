@@ -5,10 +5,9 @@
 
 <div align="center">
   <a href="https://github.com/guitadeuv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guitadeuv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guitadeuv&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div style="display: inline_block">
+
 
 
 <div style="display: inline_block"><br>
