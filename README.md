@@ -2,7 +2,6 @@
 
 - 🔭 Desenvolvedor Python
 - 🌱 Hoje, tenho estudado e aprimorado meus conhecimentos em Python, SQL, Excel e PowerBI
-- 
 <div style="display: inline_block"><br>
   
   <br>
