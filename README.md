@@ -1,7 +1,7 @@
 ### Olá, me chamo Guilherme Tadeu 👋
 
-- 🔭 Hoje estudo desenvolvimento web e estou em buscar da minha primeira oportunidade
-- 🌱 Estou aprendendo React.js e JavaScript 
+- 🔭 Desenvolvedor Python
+- 🌱 Hoje, tenho estudado e aprimorado meus conhecimentos em Python, SQL, Excel e PowerBI
 
 <div >
   <a href="https://github.com/guitadeuv">
