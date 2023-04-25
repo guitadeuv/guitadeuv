@@ -12,10 +12,6 @@
 </div>
   <br>
   <br>
-<div >
-  <a href="https://github.com/guitadeuv">
-  <img height="180em" src="(https://github-readme-stats.vercel.app/api/top-langs/?guitadeuv=anuraghazra&hide_progress=false)](https://github.com/guitadeuv/github-readme-stats)"/>
-</div>
 
  - 📫 Entre em contato comigo :)
 
